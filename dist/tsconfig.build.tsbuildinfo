@@ -1512,7 +1512,7 @@
         "affectsGlobalScope": false
       },
       "../src/main.ts": {
-        "version": "007b62fd49faabd9ca8f3048384e7a0922896182dcead82d960f826eb9dc4ef4",
+        "version": "83c12df110481bab27f78d7abf86425634dc6c5106927ff464b204438f589018",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
         "affectsGlobalScope": false
       },
