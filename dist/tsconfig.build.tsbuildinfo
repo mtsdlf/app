@@ -1277,7 +1277,7 @@
         "affectsGlobalScope": false
       },
       "../src/product/model/product.schema.ts": {
-        "version": "d1c51f25a643535c3570ecca1b9d607e0aad15f182e20daebc41190d3e361eec",
+        "version": "6a0fb6f2c062645bcda163e92ac0d37e644e26e8c374828b926af1cedda5e2a4",
         "signature": "18e293c36319f0ec31e78657aec366fb6d74722ebd25e561713e4618a2614cdc",
         "affectsGlobalScope": false
       },
