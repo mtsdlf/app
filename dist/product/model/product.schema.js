@@ -4,8 +4,9 @@ exports.ProductSchema = void 0;
 const mongoose = require("mongoose");
 exports.ProductSchema = new mongoose.Schema({
     pname: String,
-    cost: Number,
     stock: Number,
+    cost: Number,
+    price: Number,
     code: String,
     category: {
         type: String,

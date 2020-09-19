@@ -1257,13 +1257,13 @@
         "affectsGlobalScope": false
       },
       "../src/product/interfaces/product.interface.ts": {
-        "version": "958cbcce29c3925ff1531d8123a3601e76dfe3c8d7122699e8a925778cc5d749",
-        "signature": "3e44f5c72be482cae8065d12f73ed63f77f378a92d316b6ed5d7ec3482eb17b5",
+        "version": "7368e021287984acf24e3c4f861494c46caaa68fb0f6cc6bcc4320180694e36c",
+        "signature": "cd0dd1ee0034690438f1b22471c9b32cd5eb8cae58756cfd0f4a56625715c989",
         "affectsGlobalScope": false
       },
       "../src/product/model/product.dto.ts": {
-        "version": "026ddda5016e0788692ea8dc2b1fe846876828df6846f8b02d687ba0beef18aa",
-        "signature": "a9359b7cf14e388b9c5d64dbb05f7af06c8a3bd7c6ae3cea9d2a071f5d682053",
+        "version": "1cb7ec1128e35316d5256fb279b48246626972d0a724de4d328ac7d16400cba1",
+        "signature": "1fba3f443fd12e66ca83436819eb2a106a79d366ec92807aa514b2228788be0a",
         "affectsGlobalScope": false
       },
       "../src/product/service/product.service.ts": {
@@ -1277,7 +1277,7 @@
         "affectsGlobalScope": false
       },
       "../src/product/model/product.schema.ts": {
-        "version": "6a0fb6f2c062645bcda163e92ac0d37e644e26e8c374828b926af1cedda5e2a4",
+        "version": "183491aee1e5e014a4c9f2d5f5379cfe4bd6262130c7fe80b59cb29136bd9eaf",
         "signature": "18e293c36319f0ec31e78657aec366fb6d74722ebd25e561713e4618a2614cdc",
         "affectsGlobalScope": false
       },
@@ -1287,13 +1287,13 @@
         "affectsGlobalScope": false
       },
       "../src/invoice/interfaces/invoice.interface.ts": {
-        "version": "a122810b4ded777e6c11f87e1fbeffcba72f09009a56fbec2d9d740c7038bb9b",
-        "signature": "64be892660bc5ec87d2b11aa0f3cea9e5bd12e4e98a32873e05fc08aed2bcc45",
+        "version": "a0a69ce223c14a718841032bd25266b2dd7a85e53c582a943c7b75a558cc271b",
+        "signature": "422e3e258cbf6093ded3dfd0816963a35646ce0a1a2803541af1a47e7609e533",
         "affectsGlobalScope": false
       },
       "../src/invoice/model/invoice.dto.ts": {
-        "version": "fdceeee0bd22c8c6930f4320ac20942b3a264bc85343ec3f4b21de37cc538802",
-        "signature": "4dcddec99262491bd60738356bce1891cbeaffef45eba7f8b367dd09d2285070",
+        "version": "b040d1af8e8114de6841c170b1e44296b368e61a7faeed5385c8efb110456f6e",
+        "signature": "5be61092108ade0488e5f9ef18824d2da26d0816d83007f02d7cadc4e409e9a1",
         "affectsGlobalScope": false
       },
       "../src/invoice/service/invoice.service.ts": {
@@ -1317,7 +1317,7 @@
         "affectsGlobalScope": false
       },
       "../src/invoice/model/invoice.schema.ts": {
-        "version": "db7d0f32beec2cb164374c044f2828604ea15e725bdd9645e8abb50e69d3e33c",
+        "version": "e74f1a44347878baf921b4af3cf4abbee4d2fe1c9d5baf05d50013eca6fcb727",
         "signature": "976ef0d69c9ffad26663150f45e7306b057d9c04965c0af961abf5b25c351596",
         "affectsGlobalScope": false
       },

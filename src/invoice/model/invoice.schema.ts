@@ -22,7 +22,7 @@ export const InvoiceSchema = new mongoose.Schema({
             type: String,
             required: true
         },
-        cost: {
+        price: {
             type: Number,
             required: true
         },

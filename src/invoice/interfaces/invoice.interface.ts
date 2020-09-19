@@ -6,7 +6,7 @@ export interface Invoice  extends Document{
     readonly order: {
         _id: string,
         pname: string,
-        cost: number,
+        price: number,
         qty: number
     }
     readonly total: number;

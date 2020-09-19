@@ -2,8 +2,9 @@ import * as mongoose from 'mongoose';
 
 export const ProductSchema = new mongoose.Schema({
     pname: String,
-    cost: Number,
     stock: Number,
+    cost: Number,
+    price: Number,
     code: String,
     category: {
         type: String,
