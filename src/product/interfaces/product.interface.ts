@@ -5,6 +5,7 @@ export interface Product extends Document {
     stock: number;
     readonly cost: number;
     readonly price: number;
+    readonly mPrice: number,
     readonly code: string; 
     readonly category: string;
     readonly description: string;
